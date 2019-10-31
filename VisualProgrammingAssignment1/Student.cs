@@ -52,7 +52,6 @@ namespace VisualProgrammingAssignment1
                 write.WriteLine("\n{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n{6}", sId, n, a, c, s, d, u);
             }
             Console.WriteLine("1st Name: {0}\n2nd Name: {1}\n3rd Name: {2}", listie[0].name,listie[1].name,listie[2].name);
-            //Console.WriteLine("1st Name: {0}", listie[0].name);
         }
     }
 }
